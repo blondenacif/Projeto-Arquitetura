@@ -2,6 +2,6 @@
 projeto de desenvolvimento de página de arquitetura, primeiro desafio DNC
 
 
-link da planilha: https://docs.google.com/spreadsheets/d/109Lx0zaTLxchy2KPI91YgjHS8lhEpgltuC_iHPDysHM/edit?usp=sharing
+link da planilha: https://docs.google.com/spreadsheets/d/14lJuqB05RFmkQYnKfxPujwkvgmUSnKj_HjFo7PiMdZo/edit#gid=0****
 
-link do site: https://desafiodnceric.netlify.app/
+link do site: https://desafiodncericcorrigido.netlify.app/
